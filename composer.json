@@ -5,7 +5,7 @@
     "keywords": ["secrets", "passwords", "keys", "tokens", "commit-msg", "prepare-commit-msg", "post-merge"],
     "license": "MIT",
     "support": {
-        "issues": "https://github.com/captainhookphp/secrets/issues"
+        "issues": "https://github.com/captainhook-git/secrets/issues"
     },
     "authors": [
         {

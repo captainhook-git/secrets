@@ -18,7 +18,7 @@ namespace CaptainHook\Secrets\Regex;
  *
  * @package CaptainHook-Secrets
  * @author  Sebastian Feldmann <sf@sebastian-feldmann.info>
- * @link    https://github.com/captainhookphp/secrets
+ * @link    https://github.com/captainhook-git/secrets
  * @since   Class available since Release 0.9.4
  */
 interface Grouped extends Supplier

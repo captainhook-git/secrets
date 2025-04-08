@@ -4,7 +4,7 @@
 [![Minimum PHP Version](https://img.shields.io/badge/php-%3E%3D%208.0-8892BF.svg)](https://php.net/)
 [![Downloads](https://img.shields.io/packagist/dt/captainhook/secrets.svg?v1)](https://packagist.org/packages/captainhook/captainhook)
 [![License](https://poser.pugx.org/captainhook/secrets/license.svg?v=1)](https://packagist.org/packages/captainhook/secrets)
-[![Build Status](https://github.com/captainhookphp/secrets/workflows/continuous-integration/badge.svg)](https://github.com/captainhookphp/secrets/actions)
+[![Build Status](https://github.com/captainhook-git/secrets/workflows/continuous-integration/badge.svg)](https://github.com/captainhook-git/secrets/actions)
 [![Twitter](https://img.shields.io/badge/Twitter-%40captainhookphp-blue.svg)](https://twitter.com/intent/user?screen_name=captainhookphp)
 
 This package is used to detect passwords in your code. Mainly to prevent you from committing them to your version control.

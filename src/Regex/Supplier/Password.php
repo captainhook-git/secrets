@@ -22,7 +22,7 @@ use CaptainHook\Secrets\Regex\Supplier;
  *
  * @package CaptainHook-Secrets
  * @author  Sebastian Feldmann <sf@sebastian-feldmann.info>
- * @link    https://github.com/captainhookphp/secrets
+ * @link    https://github.com/captainhook-git/secrets
  * @since   Class available since Release 0.9.1
  */
 class Password implements Supplier
